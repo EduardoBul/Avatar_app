@@ -7,5 +7,5 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 10.times do |i|
-    Imagen.create(url_image: Faker::Avatar.image)
+    Image.create(url_image: Faker::Avatar.image)
 end

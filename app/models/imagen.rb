@@ -1,2 +1,0 @@
-class Imagen < ApplicationRecord
-end
